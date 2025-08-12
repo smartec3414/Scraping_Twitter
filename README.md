@@ -6,7 +6,7 @@
 
 This guide seeks to teach you how to get started using **Python** requests from the **Twitter API** using **Tweepy**, as well as store the information gained from those requests into a **csv** file. If you need additional information, **Twitter** also provides [a course](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) on how to use **V2** of their **API** for academic research, as well as [other resources](https://developer.twitter.com/en/use-cases/do-research/academic-research/resources).
 
-# GETTING STARTED WITH TWITTER DEVELOPER
+# GETTING STARTED WITH TWITTER DEVELOPER 
 
 - Collecting Twitter data is done through the **Twitter API**. In order to use the Twitter API, you'll need to [apply for developer access](https://developer.twitter.com/en/apply-for-access):
 - If you're an undergrad, you don't have access to the academic research track, so just apply for the standard developer track
